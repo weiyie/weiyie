@@ -1,0 +1,84 @@
+{
+  "titleNameMap": {
+    "educationList": "教育背景",
+    "workExpList": "工作经历",
+    "projectList": "项目经验",
+    "skillList": "个人技能",
+    "awardList": "更多信息",
+    "workList": "个人作品",
+    "aboutme": "个人评价"
+  },
+  "avatar": { "src": "https://avatars.githubusercontent.com/u/15646325?v=4", "hidden": false },
+  "profile": { "name": "吴赵成", "email": "17681446070", "mobile": "15658866070", "github": "", "zhihu": "", "workExpYear": "" },
+  "educationList": [
+    {
+      "edu_time": ["2013.09.01", "2017.06.30"],
+      "school": "安徽大学",
+      "major": "计算机科学与技术",
+      "academic_degree": "本科",
+      "dataIndex": 0
+    }
+  ],
+  "awardList": [{ "award_info": "英语 CET6", "award_time": "2015" }],
+  "workExpList": [
+    {
+      "company_name": "外企德科（华为OD）",
+      "department_name": "终端安全",
+      "work_time": ["2022.01", ""],
+      "work_desc": "1. web前端开发，参与web架构设计\n2. 疑难问题跟踪解决",
+      "dataIndex": 0
+    },
+    { "company_name": "阿里巴巴外派", "department_name": "", "work_time": ["2019.07", "2021.12"], "work_desc": "前端开发", "dataIndex": 1 },
+    {
+      "company_name": "杭州微柠科技有限公司",
+      "department_name": "",
+      "work_time": ["2018.04", "2019.07"],
+      "work_desc": "前端开发。负责rn App、活动H5、web管理端。",
+      "dataIndex": 2
+    },
+    {
+      "work_time": ["2017.07", "2018.04"],
+      "company_name": "杭州软通信息技术服务有限公司",
+      "department_name": "",
+      "work_desc": "前端开发，负责单个模块功能的交付。"
+    }
+  ],
+  "skillList": [{ "skill_name": "vue" }],
+  "projectList": [
+    {
+      "project_name": "防火墙网关",
+      "project_role": "核心开发者",
+      "project_time": "2022.01 - 2023.12",
+      "project_desc": "面向B端企业用户，为企业提供好用方便更直观的防火墙配置界面。",
+      "project_content": "\n1. 产品功能迭代，识别交付⻛险和任务排期\n2. 产品体验精雕细琢的打磨 \n3. 日常疑难问题定位和解决\n4. 开源框架升级、第三方组件二次封装",
+      "dataIndex": 0
+    },
+    {
+      "project_name": "ali-oss、赤骥、财税大脑",
+      "project_role": "前端开发",
+      "project_time": "2019.07 - 2021.12",
+      "project_desc": "ali-oss：对阿里云官网open api的整合，实现开箱即用。\n赤骥：面向运维人员，实现对阿里云产品的监控运维。\n财税大脑：面向财务人员和部分领导，将财务数据整合展示，将财务流程搬迁到线上进行操作。",
+      "project_content": "\n1. 实现ali-oss开箱即用的功能函数，以及对应的开发测试用例编写\n2. 新功能的单独模块开发和日常稳定定位解决\n",
+      "dataIndex": 1
+    },
+    {
+      "project_name": "坚蛋运动",
+      "project_role": "核心开发者",
+      "project_time": "2018.04-2019.07",
+      "project_desc": "坚蛋app：基于react-native实现的健身运动加盟平台app。\n管理项⽬：提供运营活动运维、健身加盟商活动参与⻔店信息等维护功能。",
+      "project_content": "\n1. app日常功能迭代\n2. 活动H5页面开发\n3. 管理端组件开发",
+      "dataIndex": 2
+    },
+    {
+      "project_time": "2017.04-2018.04",
+      "project_name": "函数工作流",
+      "project_role": "核心开发者",
+      "project_desc": "华为云--函数⼯作流：根据实际业务场景，编写业务函数代码并设置运⾏条件，当运⾏条件满⾜设置时，触\n发函数执⾏。创建业务所需函数，结合不同的触发器，实现不同的功能。",
+      "project_content": "\n1. ⼯作流展示相关⻚⾯的table等相关⻚⾯的开发和维护。\n2. ⼯作流拖拽编辑生成工作流代码开发",
+      "dataIndex": 3
+    }
+  ],
+  "workList": [],
+  "aboutme": { "aboutme_desc": "1. 多年web复杂项目经验\n2. 承压能力强，热爱coding\n" },
+  "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
+}
