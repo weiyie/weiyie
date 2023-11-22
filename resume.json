@@ -8,8 +8,15 @@
     "workList": "个人作品",
     "aboutme": "个人评价"
   },
-  "avatar": { "src": "https://avatars.githubusercontent.com/u/15646325?v=4", "hidden": false },
-  "profile": { "name": "吴赵成", "email": "17681446070", "mobile": "15658866070", "github": "", "zhihu": "", "workExpYear": "" },
+  "avatar": { "src": "https://avatars.githubusercontent.com/u/19388725?v=4", "hidden": false },
+  "profile": {
+    "name": "吴赵成",
+    "email": "17681446070@163.com",
+    "mobile": "15658866070",
+    "github": "https://github.com/weiyie",
+    "zhihu": "",
+    "workExpYear": ""
+  },
   "educationList": [
     {
       "edu_time": ["2013.09.01", "2017.06.30"],
@@ -19,12 +26,11 @@
       "dataIndex": 0
     }
   ],
-  "awardList": [{ "award_info": "英语 CET6", "award_time": "2015" }],
   "workExpList": [
     {
       "company_name": "外企德科（华为OD）",
       "department_name": "终端安全",
-      "work_time": ["2022.01", ""],
+      "work_time": ["2022.01~", ""],
       "work_desc": "1. web前端开发，参与web架构设计\n2. 疑难问题跟踪解决",
       "dataIndex": 0
     },
@@ -43,7 +49,13 @@
       "work_desc": "前端开发，负责单个模块功能的交付。"
     }
   ],
-  "skillList": [{ "skill_name": "vue" }],
+  "skillList": [
+    { "skill_name": "前端", "skill_level": 90, "skill_desc": "JavaScript", "dataIndex": 2 },
+    { "skill_name": "前端", "dataIndex": 1, "skill_level": 80, "skill_desc": "vue" },
+    { "skill_name": "前端", "skill_level": 60, "skill_desc": "react" },
+    { "skill_name": "前端", "skill_level": 80, "skill_desc": "git" },
+    { "skill_name": "前端", "skill_level": 60, "skill_desc": "webpack" }
+  ],
   "projectList": [
     {
       "project_name": "防火墙网关",
@@ -79,6 +91,6 @@
     }
   ],
   "workList": [],
-  "aboutme": { "aboutme_desc": "1. 多年web复杂项目经验\n2. 承压能力强，热爱coding\n" },
+  "aboutme": { "aboutme_desc": "1. 多年web复杂项目经验\n2.参与项目多，技术栈丰富\n3. 承压能力强，热爱coding\n" },
   "theme": { "color": "#2f5785", "tagColor": "#8bc34a" }
 }
